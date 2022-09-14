@@ -24,4 +24,4 @@ Be careful if you want to use 10-position BCD rotary switch. It has four pins, e
  
 <img src="ReadmeMaterials/Function.jpeg" width="813" height="387">
 
-More introductions about this project can be checked out [here](https://fqhang.cargo.site/Instaportal).
+More introductions about this project can be checked out [here](https://vimeo.com/manage/videos/730514325).
